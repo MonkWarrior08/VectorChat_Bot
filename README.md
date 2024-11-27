@@ -7,15 +7,15 @@ A Python application that scrapes web content, processes it into chunks, and sto
 - Text chunking for optimal processing
 - Vector storage using ChromaDB
 - OpenAI embeddings for semantic search
-- Interactive chat interface using GPT-4
+- Interactive chat interface using GPT-4o
 - Environment variable configuration for security
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/web-content-processor.git
-cd web-content-processor
+git clone https://github.com/MonkWarrior08/WebVec-AI-Assistant.git
+cd WebVec-AI-Assistant
 ```
 
 2. Install required packages:
@@ -61,7 +61,7 @@ python run.py
 The application uses the following default settings:
 - Text chunk size: 1000 characters
 - Embedding model: text-embedding-3-small
-- Chat model: GPT-4
+- Chat model: GPT-4o
 - Vector store: ChromaDB
 - Chat max-token: 300
 
