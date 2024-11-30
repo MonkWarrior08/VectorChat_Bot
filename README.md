@@ -14,8 +14,8 @@ A Python application that scrapes web content, processes it into chunks, and sto
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MonkWarrior08/WebVec-AI-Assistant.git
-cd WebVec-AI-Assistant
+git clone https://github.com/MonkWarrior08/VectorChat_Bot.git
+cd VectorChat_Bot
 ```
 
 2. Install required packages:
